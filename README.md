@@ -1,4 +1,4 @@
-# STAT401_datasets
+# STAT401 Labs
 
 ## Lab 1
 To import datasets into Rstudio, use the following code:

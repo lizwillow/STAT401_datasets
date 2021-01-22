@@ -9,3 +9,7 @@ bm <- read.table("https://raw.githubusercontent.com/lizwillow/STAT401_labs/main/
 ```
 
 ## Lab 6
+```
+anscombe <- read.table("https://raw.githubusercontent.com/lizwillow/STAT401_labs/main/datasets/Lab6Data.txt", 
+           header=TRUE)
+```

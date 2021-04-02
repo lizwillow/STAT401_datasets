@@ -13,3 +13,8 @@ bm <- read.table("https://raw.githubusercontent.com/lizwillow/STAT401_labs/main/
 anscombe <- read.table("https://raw.githubusercontent.com/lizwillow/STAT401_labs/main/datasets/Lab6Data.txt", 
            header=TRUE)
 ```
+
+## Lab 9
+```
+hydrocarbon_df <- read.table("https://raw.githubusercontent.com/lizwillow/STAT401_labs/main/datasets/Lab7Data.txt", header=TRUE)
+```
